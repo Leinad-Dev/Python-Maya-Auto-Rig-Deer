@@ -1,7 +1,7 @@
 # Python-Maya-Auto-Rig-Deer
 Files/scripts used in Autodesk Maya to generate a deer rig ready for 3D animation
 
-![alt text](https://github.com/Leinad-Dev/Python-Maya-Auto-Rig-Deer/blob/[branch]/image.jpg?raw=true)
+![Alt text](relative/path/to/img.jpg?raw=true "Deer_Thumbnail")
 
 ## How to use the Maya python script:
 1. Run script in Maya
