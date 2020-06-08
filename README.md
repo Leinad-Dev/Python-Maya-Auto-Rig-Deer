@@ -1,6 +1,8 @@
 # Python-Maya-Auto-Rig-Deer
 Files/scripts used in Autodesk Maya to generate a deer rig ready for 3D animation
 
+![alt text](https://github.com/Leinad-Dev/Python-Maya-Auto-Rig-Deer/blob/[branch]/image.jpg?raw=true)
+
 ## How to use the Maya python script:
 1. Run script in Maya
 2. Press button **"STEP1: BODY LOCATORS"** to place the left side locators of the deer body
