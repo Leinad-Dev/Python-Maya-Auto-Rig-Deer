@@ -1,5 +1,5 @@
 # Python-Maya-Auto-Rig-Deer
-Files/scripts used in Autodesk Maya to generate a deer rig ready for 3D animation
+Files/scripts used in Autodesk Maya to generate a deer rig ready for 3D animation  
 Note: The deer model and texture are not included in this public repository
 
 ![](images/Deer_Thumbnail.jpg)
